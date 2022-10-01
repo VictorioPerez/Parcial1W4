@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RecetasSLN",
+    "\\RecetasSLN\\datos",
+    "\\RecetasSLN\\datos\\Implementaciones",
+    "\\RecetasSLN\\datos\\Interfaces",
+    "\\RecetasSLN\\dominio",
+    "\\RecetasSLN\\presentación",
+    "\\RecetasSLN\\Servicios",
+    "\\RecetasSLN\\Servicios\\Implementaciones",
+    "\\RecetasSLN\\Servicios\\Interfaces"
+  ],
+  "SelectedNode": "\\RecetasSLN\\dominio\\DetalleReceta.cs",
+  "PreviewInSolutionExplorer": false
+}
